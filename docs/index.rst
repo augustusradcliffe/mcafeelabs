@@ -6,7 +6,7 @@ If you have already invested in McAfee’s award-winning security software, the 
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://mcafeedesk.securebase.click/helpline/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with McAfee Page</a>
+       <a href="https://mymcafee.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with McAfee Page</a>
    </div>
 
 Why Activation and Download Matters
@@ -107,3 +107,4 @@ Activating and downloading your McAfee product is a straightforward process once
 For direct activation and downloads, always use the official link:  
 
 `https://www.mcafee.com/activate <https://www.mcafee.com/activate>`_
+
